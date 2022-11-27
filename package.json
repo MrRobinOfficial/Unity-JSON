@@ -1,0 +1,18 @@
+{
+  "name": "com.mrrobinofficial.ujson",
+  "displayName": "uJSON",
+  "author": {
+    "name": "MrRobinOfficial",
+    "url": "https://github.com/MrRobinOfficial"
+  },
+  "version": "1.0.0",
+  "unity": "2022.1",
+  "description": "Provides an extension of JSON .NET to Unity.",
+  "keywords": [
+    "JSON",
+    "uJSON"
+  ],
+  "license": "MIT",
+  "category": "JSON",
+  "dependencies": {}
+}
