@@ -6,12 +6,20 @@ namespace uJSON.Converters
 {
     public class GameObjectJsonConverter : JsonConverter<GameObject>
     {
-        public override GameObject ReadJson(JsonReader reader, System.Type objectType, GameObject existingValue, bool hasExistingValue, JsonSerializer serializer)
+        public override GameObject ReadJson(
+            JsonReader reader,
+            System.Type objectType,
+            GameObject existingValue,
+            bool hasExistingValue,
+            JsonSerializer serializer)
         {
             return null;
         }
 
-        public override void WriteJson(JsonWriter writer, GameObject value, JsonSerializer serializer)
+        public override void WriteJson(
+            JsonWriter writer,
+            GameObject value,
+            JsonSerializer serializer)
         {
             writer.WriteStartObject();
 

@@ -1,13 +1,14 @@
 {
-  "name": "com.mrrobinofficial.ujson",
-  "displayName": "uJSON",
+  "name": "com.mrrobin.ujson",
+  "displayName": "JSON",
   "author": {
     "name": "MrRobinOfficial",
+    "email": "mrrobin123mail@gmail.com",
     "url": "https://github.com/MrRobinOfficial"
   },
   "version": "1.0.0",
   "unity": "2022.1",
-  "description": "Provides an extension of JSON .NET to Unity.",
+  "description": "Tool for Unity that helps developers easily serialize and deserialize Unity-specific data types by using custom JSON converters. This system offers a variety of JSON settings to customize the serialization process, and is designed to make it easy to work with JSON data in Unity projects. Developed by using Newtonsoft JSON.",
   "keywords": [
     "JSON",
     "uJSON"
