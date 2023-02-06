@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line -->
 <p align="center">
-  <a href="#" rel="noopener" target="_blank"><img width="150" src="Resources/UnityJSON_128x128.png" alt="Parser logo"></a>
+  <a href="#" rel="noopener" target="_blank"><img width="150" src="Resources/UnityJSON_128x128.png" alt="JSON logo"></a>
 </p>
 
 <h1 align="center">JSON [Unity Engine]</h1>
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrrobinofficial/unity-parser/blob/HEAD/LICENSE.txt)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrrobinofficial/unity-json/blob/HEAD/LICENSE.txt)
 ![maintenance-status](https://img.shields.io/badge/maintenance-as--is-yellow.svg)
 
 </div>
@@ -22,7 +22,7 @@ Nunc consequat diam id turpis imperdiet, id tempus turpis dictum. Vestibulum non
 
 ## Installation
 
-* [Add package](https://docs.unity3d.com/Manual/upm-ui-giturl.html) from this git URL: ```com.mrrobin.parser``` or https://github.com/MrRobinOfficial/Unity-JSON.git
+* [Add package](https://docs.unity3d.com/Manual/upm-ui-giturl.html) from this git URL: ```com.mrrobin.json``` or https://github.com/MrRobinOfficial/Unity-JSON.git
 
 Or
 
